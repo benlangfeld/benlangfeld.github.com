@@ -1,7 +1,7 @@
 ---
 title: Stateful fun on Heroku
 
-excerpt: Noting the passing of one of the big names in Bayesian statistics with a discussion some of his work I am personally familiar with.
+excerpt: Heroku's new stack allows running all sorts of processes, including XMPP bots based on Blather
 
 location: Liverpool, England
 
