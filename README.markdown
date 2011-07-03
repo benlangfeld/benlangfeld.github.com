@@ -15,10 +15,10 @@ Be especially careful with some of the dynamic content and javascript I use on m
 
 * Twitter, LibraryThing and Delicious feeds - The front page pulls in my tweets and recent reads. The "Links" page for my IEM blog pulls in my bookmarks. You will want to change these or remove them for your own site.
 
-Basically, the rules are these: 
+Basically, the rules are these:
 
-* _If you don't understand it or didn't write it then remove it_. 
-* _Test your site on a local machine before you upload your site_. 
+* _If you don't understand it or didn't write it then remove it_.
+* _Test your site on a local machine before you upload your site_.
 
 Thanks.
 
@@ -26,12 +26,6 @@ License
 =======
 
 Unless otherwise attributed, all of the content in this repository is released under a Creative Commons ([Attribution-Noncommercial-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/) licence.
-
-Usage
-=====
-I develop the site locally and then rsync the changes to my host as follows:
-
-    rsync -ave ssh ~/Sites/mark.reid.name/ confla@conflate.net:www/name
 
 Thanks
 ======
