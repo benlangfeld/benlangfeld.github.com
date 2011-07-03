@@ -32,9 +32,7 @@ A [feed][] of the most recent posts is available.
 </div>
 {% endfor %}
 
-{% if site.posts.count > 5 %}
-  <p><a href="past.html">Older Posts &rarr;</a></p>
-{% endif %}
+<p><a href="past.html">Older Posts &rarr;</a></p>
 
 <script type="text/javascript">
 //<![CDATA[
