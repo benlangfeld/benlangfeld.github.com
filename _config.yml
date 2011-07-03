@@ -1,6 +1,6 @@
 ---
 destination : /Users/ben/Sites/langfeld.me
-auto        : true
+auto        : false
 lsi         : false
 pygments    : true
 permalink   : none
