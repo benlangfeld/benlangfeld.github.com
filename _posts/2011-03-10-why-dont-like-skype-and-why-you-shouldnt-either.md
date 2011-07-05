@@ -19,7 +19,7 @@ A walled garden could be excused in the case of Facebook, since there is some va
 
 But real time communications channels need not be like this; we can have all the good stuff about email and even avoid some of the bad. XMPP (or Jabber) has been in existence since 1999 and is an incredibly powerful protocol for most any real-time application, but especially makes for a killer instant messaging system. I can use my own XMPP network, you can use Google Talk, we can all be happy and inter-operate to the lowest common denominator feature set.
 
-But, thanks in large part to Google, the same is true for voice communication. XMPP Jingle is a solid standard (see <a href="(http://en.wikipedia.org/wiki/Jingle_(protocol))">Wikipedia</a>) and as [your deity of choice] would have it, it’s entirely peer to peer. As long as we both use Jingle compatible clients, it doesn’t matter which XMPP service we route our messages through.
+But, thanks in large part to Google, the same is true for voice communication. XMPP Jingle is a solid standard (see <a href="(http://en.wikipedia.org/wiki/Jingle_(protocol))">Wikipedia</a>) and as \[your deity of choice\] would have it, it’s entirely peer to peer. As long as we both use Jingle compatible clients, it doesn’t matter which XMPP service we route our messages through.
 
 So, if XMPP is so awesome, has no technical deficiencies of note and is even so thoroughly implemented by services such as Google Talk and in open source projects, from Prosody, through ejabberd to Adium, why hasn’t it won yet? The problem, as I see it? “XMPP me”, “Jabber me”, “Jingle me”, “Google Talk me”. Yeah.
 
