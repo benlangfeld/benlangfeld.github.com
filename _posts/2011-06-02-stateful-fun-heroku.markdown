@@ -21,7 +21,7 @@ gem 'blather'
 gem 'foreman'
 {% endhighlight %}
 
-Then just run bundle install as usual to get those dependencies. You'll also need a simple Blather based application:
+Then just run bundle install as usual to get those dependencies. You'll also need a simple Blather based application (save this as app.rb):
 {% highlight ruby %}
 require 'rubygems'
 require 'blather/client'
@@ -49,8 +49,10 @@ Adding config vars:
 Restarting app... done, v3.
 {% endhighlight %}
 
-Simple. Now comes the important part: the Procfile definition needed to start up our app. This really couldn't be any simpler:
-    bot: bundle exec ruby app.rb -D
+Simple. Now comes the important part: the [Procfile](http://devcenter.heroku.com/articles/procfile) definition needed to start up our app. This really couldn't be any simpler. Simply add the following to a file named Procfile and commit it to your git repository.
+{% highlight bash %}
+bot: bundle exec ruby app.rb -D
+{% endhighlight %}
 
 We are able to define arbitrary process classes (here 'bot') and run arbitrary commands. We've added a -D option here to instruct blather to log at the debug level.
 
