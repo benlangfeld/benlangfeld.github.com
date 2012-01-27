@@ -36,7 +36,10 @@ open_the_pod_bay_doors {
 }
 
 everyone_else {
-  pin = input 4, :speak => "This is not the application you are looking for. Enter the correct PIN or face instant descruction."
+  pin = input 4, :speak => <<-STRING
+This is not the application you are looking for.
+Enter the correct PIN or face instant descruction.
+STRING
   if pin == '1234'
     speak 'Phew!'
   else
@@ -73,17 +76,20 @@ route 'foo', Adhearsion::OutboundCall
 {% endhighlight %}
 
 {% highlight ruby %}
-# A contrived example, but a symbol calls the matching method and requires a truthy response
+# A contrived example, but a symbol calls the matching method and requires
+# a truthy response
 route 'foo', :active?
 {% endhighlight %}
 
 {% highlight ruby %}
-# This calls the method #from and requires an exact match to the string specified (this can be any other type).
+# This calls the method #from and requires an exact match to the string
+# specified (this can be any other type).
 route 'foo', :from => 'sip:me@there.com'
 {% endhighlight %}
 
 {% highlight ruby %}
-# An array as the hash key requires the return value of #from to match one of the provided values.
+# An array as the hash key requires the return value of #from to match
+# one of the provided values.
 route 'foo', :from => ['sip:me@there.com', 'sip:you@other.com']
 {% endhighlight %}
 
@@ -93,12 +99,15 @@ route 'foo', :from => 'sip:me@there.com', :to => 'sip:us@here.com'
 {% endhighlight %}
 
 {% highlight ruby %}
-# Elements of an array act like logical OR and thus if at least one matches, the guards will pass.
+# Elements of an array act like logical OR and thus if at least one
+# matches, the guards will pass.
 route 'foo', [{:from => 'sip:me@there.com'}, {:to => 'sip:us@here.com'}]
 {% endhighlight %}
 
 {% highlight ruby %}
-# One may provide a lambda/Proc which can perform any arbitrary operation upon the call object. A truthy return value passes the guard.
+# One may provide a lambda/Proc which can perform any arbitrary
+# operation upon the call object. A truthy return value passes
+# the guard.
 route 'foo', lambda { |call| Time.now.hour < 20 }
 {% endhighlight %}
 
