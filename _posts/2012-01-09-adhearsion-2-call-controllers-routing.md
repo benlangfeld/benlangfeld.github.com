@@ -1,7 +1,7 @@
 ---
-title: Adhearsion 2 - Call Controllers & Routing
+title: Adhearsion 2 - Call Controllers &amp; Routing
 
-excerpt: Adhearsion 2 presents a new way to write applications - Call Controllers & the call router. Here we'll explain why these changes have been made and how to make use of the new features.
+excerpt: Adhearsion 2 presents a new way to write applications - Call Controllers &amp; the call router. Here we'll explain why these changes have been made and how to make use of the new features.
 
 location: Preston, England
 
