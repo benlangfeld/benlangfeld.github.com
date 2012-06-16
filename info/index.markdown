@@ -11,4 +11,4 @@ section: Info
 About Me
 ========
 
-I’m Ben Langfeld. I’m a software developer. I love Ruby, and so should you. I work mainly with Rails & Adhearsion.
+I’m Ben Langfeld. I’m a software developer. I love Ruby, and so should you. I work mainly in communications, using tools like Adhearsion and XMPP.
