@@ -1,5 +1,5 @@
 ---
-title: Refactoring for SRP: an example
+title: Refactoring for SRP - an example
 
 excerpt: There is much material available online that covers the theory of the Single Responsibility Principle (SRP), but few real world examples. Here's one taken from a medium size open-source codebase just this week.
 
