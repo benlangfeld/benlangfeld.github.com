@@ -12,7 +12,7 @@ keywords: Blog, Programming, Ruby, Rails, Adhearsion
 Welcome
 =======
 
-I’m Ben Langfeld. I’m a software developer. I love Ruby, and so should you. I work mainly with Rails & Adhearsion. You can find out more about me here.
+I’m Ben Langfeld. I’m a software developer. I love Ruby, and so should you. I work mainly in communications, using tools like Adhearsion and XMPP. You can find out more about me here.
 
 I blog occasionally about my work and about programming and business.
 
