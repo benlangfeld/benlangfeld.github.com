@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/benlangfeld
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://langfeld.me
+  * I am benlangfeld (https://keybase.io/benlangfeld) on keybase.
+  * I have a public key with fingerprint 181D 7230 C198 2F01 D975  1710 F0C0 7D7B 2AC4 F268
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.15"
+        },
+        "key": {
+            "fingerprint": "181d7230c1982f01d9751710f0c07d7b2ac4f268",
+            "host": "keybase.io",
+            "key_id": "F0C07D7B2AC4F268",
+            "uid": "023aac2a4b91b35b93be8baf59290d00",
+            "username": "benlangfeld"
+        },
+        "merkle_root": {
+            "ctime": 1408061994,
+            "hash": "54f37231c077d7d9328f05d1dbce59809dcbc187cbd37f1bbb14f0ac899c7c423975450be905bb4b2849bedb8a65b83c798a51b4be9601cc03ceb0ccea06c680",
+            "seqno": 38277
+        },
+        "service": {
+            "hostname": "langfeld.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408062037,
+    "expire_in": 157680000,
+    "prev": "9c4ae1b9ccaeb5c08e12b461f965088e01171eb02721d9df77b77017f2ab2739",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFVkl9oFEccx+/8k6aRQCMtYqlN2LY0LZdzZnb3ZuZQaWPJQ7F98KxQQY75zc5e
+1py75+7l6hHy0FJEC2JLG7Vq1RDEUCK211AbW2hRiw+KoiHUhyb4IhipVI3Gtip2
+NkbQfdqZ33e+8/3M7/d549xEQ/LGb709b5661Zk8MwmJ3PXVH/QYEDhVI9tjyKKn
+/HL854uNysgaXaoKIlJpL2jxA0elN0Qts5qUUVFh5AW+VqG0lca20ZuK9fFp1/ML
+KiyFXmxmYIYdSkwkMWfERdjh1MYUIxdJRB0KREjLJRmmPTuDqPzUtcaMZ95z9G4H
+WonoO7SdvL3S6nik754pIGIKIYmwgGMwbeAmKAbCtTnhyEEoFkYqnGUC5ReFX3BV
+0Ykjb1RhV1HlwyCYAZdlL1ZhCzGUwZxbOpSIOvU523JNjYF1aJ3a4SZhLrId7IBU
+NmeIOxIkZlSCY1IXAwC2XCQk41xSaRFTY1s2AsWRDWABYRYH5QATGRuYKSlnwsa6
+oHgGYSmRKRUgKZVAGZlhMUWkNvmBkTUZobQ3XoYVT6o4dvxws3yP4dJ6lTJKYVAO
+ZFDUhc5yuZSNkcvVUiz8SB2F/KxHHjzf0V17sq9YS596DoJMmjLU5pIXqrwXK2yq
+g+kvvkdVtCeXllAYuJRCgS0RU5iAlcEuz9iIMYWw7rzGIpToOXBcSoFShKlLBBBq
+8icgdU5R0JaRV/BFuTtURu+25EvzEsmGRN38OfHgJhqefe7xND9YXZ8Y2vv7f691
+NKdOH4a3EktHP0S1S38vTN7b//XrF75sfjD0Xv2KP5sWu2fa1k4tdFM31+8ZU8mL
+3d+3j7SuPWaVFtUOHztuTN0XR47829i47rPpXVtQy64otebUleU3++901fs7Dzx8
++cXp8wOVd+9vzZ38JlqXWPbFM8Pdk+vbUteuNu9bNch+3nE2Xze29OORF/YP1I42
+7fhltG/O5dG2iXOD3/X0D5n9p/ty6HrHp7lNtxV7f7j6z/aDP3iFgekFmw8uasjW
+HTqxYmwQft3+17e1KmOXxq/+cffk85XLfa+8Mbl7YhxfbAtbT+z9Kr2zdepQbk17
+/pMfofZq03E0bI2fWzIy8dP83f8D
+=5vMt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benlangfeld
+
+==================================================================
