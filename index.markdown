@@ -12,9 +12,9 @@ keywords: Blog, Programming, Ruby, Rails, Adhearsion
 Welcome
 =======
 
-I’m Ben Langfeld. I’m a software developer. I love Ruby, and so should you. I work mainly in communications, using tools like Adhearsion and XMPP. You can find out more about me here.
+I’m Ben Langfeld. I’m a software developer, and I build communications technology because I believe communication is one of humans' most fundamental advantages. I work a lot with Ruby, tools like Adhearsion, FreeSWITCH and XMPP, among many others. I am a big open-source software advocate, being a founding member of the board of the Adhearsion Foundation. I am a perfectionist, and seek to improve everything with which I come into contact, including myself. You can find out more about me here.
 
-I blog occasionally about my work and about programming and business.
+I blog occasionally about my work and occasional other subjects.
 
 [![Feed icon](/files/css/feed-icon-14x14.png){:title="Atom feed of recent posts" .right}][feed]
 A [feed][] of the most recent posts is available.
