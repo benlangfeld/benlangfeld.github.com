@@ -1,10 +1,10 @@
 ---
 layout: default
-section: Code
-title: Code
+section: Open Source
+title: Open Source
 ---
 
-# Code
+# Open Source
 Eventually this page will contain links to most of the open source projects I've worked on.
 
 ## Voice
