@@ -7,7 +7,7 @@ feed: atom.xml
 keywords: Blog, Programming, Ruby, Rails, Adhearsion
 ---
 
-<img class='inset right' src='/images/ben_langfeld.jpg' title='Ben Langfeld' alt='Photo of Ben Langfeld presenting at EuRuKo 2011' width='120px' />
+<img class='inset right' src='/images/ben_langfeld.jpg' title='Ben Langfeld' alt='Photo of Ben Langfeld' width='120px' />
 
 Welcome
 =======
