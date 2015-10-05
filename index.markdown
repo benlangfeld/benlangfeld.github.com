@@ -18,10 +18,8 @@ I work a lot with Ruby, tools like Adhearsion, FreeSWITCH and XMPP, among many o
 
 I am a perfectionist, and seek to improve everything with which I come into contact, including myself. You can find out more about me here.
 
-I blog occasionally about my work and occasional other subjects.
-
 [![Feed icon](/files/css/feed-icon-14x14.png){:title="Atom feed of recent posts" .right}][feed]
-A [feed][] of the most recent posts is available.
+I blog occasionally about my work and occasional other subjects. A [feed][] of the most recent posts is available.
 
 [feed]: /atom.xml
 
