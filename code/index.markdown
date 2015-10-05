@@ -4,13 +4,10 @@ section: Code
 title: Code
 ---
 
-Code
-====
+# Code
 Eventually this page will contain links to most of the open source projects I've worked on.
 
-+-- {.section}
-Voice
-====
+## Voice
 [Adhearsion](http://adhearsion.com)
 : Adhearsion is a fully featured voice application framework, similar to Rails for web apps. I'm on the core Adhearsion team, and I'm working on lots of exciting stuff for the project.
 
@@ -31,11 +28,8 @@ Voice
 
 [rayo](http://rayo.org)
 :
-=--
 
-+-- {.section}
-Ruby
-====
+## Ruby
 [Blather](http://github.com/sprsquish/blather)
 :
 
@@ -50,21 +44,15 @@ Ruby
 
 [countdownlatch](http://github.com/benlangfeld/countdownlatch)
 :
-=--
 
-+-- {.section}
-Other
-====
+## Other
 [StropheCappuccino](https://github.com/benlangfeld/StropheCappuccino)
 : XMPP for Cappuccino. I contributed a bunch of code to this project in the past, but am no longer actively working on it.
 
 [CappuccinoTalk](https://github.com/benlangfeld/CappuccinoTalk)
 : CappuccinoTalk is a Jabber/XMPP client built using the Cappuccino framework. It uses StropheCappuccino. It's nowhere near finished, but it was fun to start. Maybe someone will continue with it some day.
-=--
 
-+-- {.section}
-Interests
-====
+## Interests
 [Celluloid](http://celluloid.io)
 : Celluloid is a concurrent object oriented programming framework for Ruby which lets you build multithreaded programs out of concurrent objects just as easily as you build sequential programs out of regular objects.
 
@@ -72,4 +60,3 @@ I have contributed a few small fixed to Celluloid, and use it in various project
 
 [CloudFoundry](http://cloudfoundry.org)
 : The Open Platform as a Service Project. CloudFoundry is PaaS in the same vain as Heroku, including features similar to classic Heroku, as well as Cedar.
-=--
